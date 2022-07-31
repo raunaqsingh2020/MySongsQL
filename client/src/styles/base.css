@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+    --c-bg-deeper: #EEE2DC;
+    --c-bg: #EEE2DC;
+    /* --c-bg-elevated: hsl(253, 19%, 16%); */
+    --c-text: #E37575;
+    --c-text-muted: #4E4E4E;
+
+    /* --c-white: hsl(218, 27%, 92%);
+
+    --c-accent-blue: hsl(231, 50%, 63%);
+    --c-accent-pink: hsl(271, 50%, 63%);
+
+    --c-accent-dark-1: hsl(211, 50%, 40%);
+    --c-accent-dark-3: hsl(231, 50%, 40%);
+    --c-accent-dark-5: hsl(251, 50%, 40%);
+    --c-accent-dark-7: hsl(271, 50%, 40%); */
+}
+
+html {
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+
+body {
+    font-family: 'Poppins', Verdana, Helvetica Neue, Arial, Courier, sans-serif;
+    color: var(--c-text);
+    background-color: var(--c-bg);
+    margin: 0;
+    padding: 0;
+    /* cursor: none; */
+}
+
+body a {
+    /* cursor: none */
+}
+
+h1, h2, h3, h4, h5, h6, p, small {
+    color: var(--c-text);
+}
+
+/* a {
+    color: var(--c-accent-blue) !important;
+    text-decoration: none !important;
+    transition: ease-in-out 0.3s;
+}
+a:hover {
+    color: var(--c-accent-pink) !important;
+    text-decoration: underline !important;
+} */

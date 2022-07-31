@@ -1,0 +1,9 @@
+{
+    "rds_host": "database.c0drr2hs2cb5.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "ideng",
+    "rds_password" : "CIS450550!",
+    "rds_db": "Spotify",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}

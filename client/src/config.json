@@ -1,0 +1,7 @@
+{
+    "comment": "for production, set prod to true and server_host to mysongsql.herokuapp.com. To test locally, set prod to false, server_prefix to http, and server_host to 127.0.0.1",
+    "prod": true,
+    "server_prefix": "https",
+    "server_host": "mysongsql.herokuapp.com",
+    "server_port": "8080"
+}
