@@ -1,4 +1,24 @@
-# CIS-550 Final Project: MySongsQL
+# MySongsQL
+
+Collaborators: **@Dfeng6789 @irwin-deng @hryoma @raunaqsingh2020**
+
+## About
+
+Search songs to find statistics such as tempo, time signature, loudness, timber, as well as other more qualitative attributes, such as danceability and energy, and find songs that are most similar based on those qualities.
+
+View full in-depth report [here](https://docs.google.com/document/d/1WRNbQJILopbCpQuzJzCm4LlumZoS1xThVqdzADT8HWI/edit).
+
+## Features
+
+- Look up songs based on album, name, or artist
+- Display song statistics such as whether or not it was on the Top 200 or Viral 50 charts, number of streams while on those charts, tempo, time signature, loudness, timber, as well as other more qualitative attributes like danceability and energy
+- Displays similar songs based on those statistics
+- Search for albums based on their name, and see all the songs in that album as well as similar albums
+- Search for artists based on their name, and see all the songs they have written as well as connected artists
+- Look up charts on different days and regions and display songs that were on that chart and the statistics for those songs
+- Leaderboard of artists who have had the most finishes on a top 200 chart, and the total number of streams that their songs have
+- Account creation and login: When logged in, users can favorite the songs that they see in our application, and this information is stored in our database. 
+- Displays the top 10 search results on Bing for an artist on their page
 
 ## How to build the project locally
 
