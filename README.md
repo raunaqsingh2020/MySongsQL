@@ -6,6 +6,8 @@ Collaborators: **@Dfeng6789 @irwin-deng @hryoma @raunaqsingh2020**
 
 Search songs to find statistics such as tempo, time signature, loudness, timber, as well as other more qualitative attributes, such as danceability and energy, and find songs that are most similar based on those qualities.
 
+View full in-depth report [here](https://docs.google.com/document/d/1WRNbQJILopbCpQuzJzCm4LlumZoS1xThVqdzADT8HWI/edit).
+
 ## Features
 
 - Look up songs based on album, name, or artist
